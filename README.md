@@ -1,4 +1,4 @@
-### Hi there, I'm jory Bayo - aka [youngdevps][website] 👋
+### Hi there, I'm jordy Bayo - aka [youngdevps][website] 👋
 
 [![Website](https://img.shields.io/website?label=youngdevps.com&style=for-the-badge&url=https%3A%2F%2Fyoungdevps.com)](https://youngdevps.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/youngdevps?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fyoungdevps&screen_name=youngdevps)
