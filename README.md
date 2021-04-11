@@ -58,7 +58,7 @@
 
 <!-- YOUTUBE:START -->
 - [Comment recuperer plusieurs inputs | python Advance , Expert  Level](https://www.youtube.com/watch?v=3tG1jUQbuSI)
-- [La Programmation Oriente objet     | Dart flutter](https://www.youtube.com/watch?v=NhWCEdja9W4)
+- [La Programmation Oriente objet     | Dart flutter](https://www.youtube.com/watch?v=J5NmN8Bc4Vc)
 - [Classification d'images avec DL,   | CNN et ComputerVision](https://www.youtube.com/watch?v=7k7ETzqOxn8)
 - [C'est quoi Wakatime - VLOG combien de temps de code par jour](https://www.youtube.com/watch?v=V-J2OnZRC0I)
 - [Apprendre Django en 3H sans ADS - Jump into Django](https://www.youtube.com/watch?v=lFF5jQeQuEs)
