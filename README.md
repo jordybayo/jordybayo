@@ -54,6 +54,29 @@
 
 ---
 
+
+### Global Stats (OpenSource activity)  
+
+<p>
+    <img width="600"  
+         src="https://metrics.lecoq.io/youngdevps?id=youngdevps" 
+         alt="Sanix-darker's Github Metrics"
+     />
+</p>
+
+---
+
+### WakaTime Stats (Coding activity)
+<p>
+    <a href="https://wakatime.com/@youngdevps">
+        <img width="600" src="https://github.com/youngdevps/youngdevps/blob/master/images/stat.svg"
+             alt="Youngdevps's WakaTime Activity."/>
+    </a>
+</p>
+
+---
+
+
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
