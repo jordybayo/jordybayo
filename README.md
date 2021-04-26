@@ -69,8 +69,7 @@
 ### WakaTime Stats (Coding activity)
 <p>
     <a href="https://wakatime.com/@youngdevps">
-        <img width="600" src="https://github.com/youngdevps/youngdevps/blob/master/images/stat.svg"
-             alt="Youngdevps's WakaTime Activity."/>
+        <img width="600" src="https://github.com/youngdevps/youngdevps/blob/master/codeStats.svg" alt="My Coding Activity/>
     </a>
 </p>
 
