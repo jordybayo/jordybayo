@@ -1,7 +1,7 @@
 ### Hi there, I'm jordy Bayo - aka [youngdevps][website] 👋
 
-[![Website](https://img.shields.io/website?label=youngdevps.com&style=for-the-badge&url=https%3A%2F%2Fyoungdevps.com)](https://youngdevps.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/youngdevps?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fyoungdevps&screen_name=youngdevps)
+[![Website](https://img.shields.io/website?label=www.bbraingroup.com&style=for-the-badge&url=http%3A%2F%2Fbbraingroup.com)](http://www.bbraingroup.com)
+[![Twitter Follow](https://img.shields.io/twitter/follow/jordybayo?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fyoungdevps&screen_name=jordybayo)
 
 ## I'm a Tech Guy, Fullstack Developer, and Teacher!!
 
@@ -13,11 +13,11 @@
 
 ### Connect with me:
 
-[<img align="left" alt="youngdevps.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="youngdevps | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="www.bbraingroup.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="jordy bayo | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="jordyBayo | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="jordyBayo | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="youngdevps | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="jordybayo | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -60,7 +60,7 @@
 <p>
     <img width="600"  
          src="https://metrics.lecoq.io/youngdevps?id=youngdevps" 
-         alt="Sanix-darker's Github Metrics"
+         alt="Jordy Bayo's Github Metrics"
      />
 </p>
 
@@ -126,13 +126,8 @@
 
 </details>
 
-[website]: https://youngdevps.com
-[course]: http://vsCodeHero.com
+[website]: https://www.bbraingroup.com
 [twitter]: https://twitter.com/jordyBayo
 [youtube]: https://youtube.com/youngdevps
 [instagram]: https://instagram.com/youngdevps
 [linkedin]: https://linkedin.com/in/jordyBayo
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
