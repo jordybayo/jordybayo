@@ -1,3 +1,46 @@
+<!-- # DevOps-Research
+This Repo Contains Learning files for differents technologies in devops field
+
+### Learning Path 
+
+##### DevOps Starter
+
++ Learn Continuous Integration & Continuous Delivery ✔
+  + Jenkins ✔
+  + Github action ✔
++ Deploy real projet using CI/CD
+  + Azure DevOps ✔
+  + AWS OpsWork 
+  + Run a Controlled Deploy With AWS Elastic Beanstalk 
+  + Deploying a PHP Application Using AWS OpsWorks
++ Master Git
+  + Commmits ✔
+  + Branchings ✔
+  + Workflows ✔
++ Learn Terraform
+  + EC2 ✔
+  + Teraform with AWS ✔
++ Learn JIRA ✔
+  + jira ✔
+  + learn agile, jira and agile methods ✔
+  + Kanban and scrums methods ✔
+  + jira dashboard ✔
++ 
+
+##### DevOps Intermediate
++ DevOps CI /CD
++ Introduction to kubernetes
+  + kubernetes glossary
+  + deploy a stateless app
++ Kubernetes tools
+  + Helm
+  + GitOps
+  + Istio
+  + knative
+  + prometheus
+  + Grafana# devops -->
+
+
 # 🏄‍♂️ Jordy Bayo
 
 **`Digital Craftsman (DevOps/Filmmaker/Creator)`**
@@ -17,7 +60,7 @@ I'm an indie DevOps Engineer and content creator building my version of the digi
 
 ---
 
-### 🧰 Languages and Tools
+### 🧰 Languages and Tools  
 
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
@@ -28,13 +71,13 @@ I'm an indie DevOps Engineer and content creator building my version of the digi
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Gradle" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" />
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<br />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />  
 <img align="left" alt="terraform" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" />
 <img  align="left" alt="ansible" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" />
 <img align="left" alt="jenkins" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" />
 <img align="left" alt="github" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="github" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain-wordmark.svg" />
+<br> <br>
 <img align="left" alt="travis" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/travis/travis-plain-wordmark.svg" />
 <img  align="left" alt="gitlab" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg" />
 <img  align="left" alt="bitbucket" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original-wordmark.svg" />
@@ -43,24 +86,33 @@ I'm an indie DevOps Engineer and content creator building my version of the digi
 <img  align="left" alt="redis" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />
 <img  align="left" alt="kafka" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original-wordmark.svg" />
 <img align="left" alt="vagrant" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" />
-<img  align="left" alt="docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />  
-  
-  
-  
+<img  align="left" alt="docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+<img align="left" alt="googlecloud" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
+<img align="left" alt="aws" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+<br> <br>
+<img align="left" alt="nginx" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" />
+<img align="left" alt="apache" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" />
+<img align="left" alt="kubernetes " width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" />
+<img align="left" alt="selenium " width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />
+<img align="left" alt="prometheus " width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" />
+<img align="left" alt="azure " width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
+<br> <br><br> <br>
+
+
 #
 
 ### 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Command Line Tools ALL Developers Should Know](https://ytcards.demolab.com/?id=DIny00tOBdU&title=Command+Line+Tools+ALL+Developers+Should+Know&lang=en&timestamp=1667250900&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=434 "Command Line Tools ALL Developers Should Know")](https://www.youtube.com/watch?v=DIny00tOBdU)
-[![I Built a Minimal Developer Portfolio Using React + Tailwind + Vite](https://ytcards.demolab.com/?id=g9hPa-G3lfw&title=I+Built+a+Minimal+Developer+Portfolio+Using+React+%2B+Tailwind+%2B+Vite&lang=en&timestamp=1666797301&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=725 "I Built a Minimal Developer Portfolio Using React + Tailwind + Vite")](https://www.youtube.com/watch?v=g9hPa-G3lfw)
-[![I Made a Custom GitHub Profile README Portfolio (and you can, too)](https://ytcards.demolab.com/?id=9A8sQZDRn5o&title=I+Made+a+Custom+GitHub+Profile+README+Portfolio+%28and+you+can%2C+too%29&lang=en&timestamp=1663770604&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=655 "I Made a Custom GitHub Profile README Portfolio (and you can, too)")](https://www.youtube.com/watch?v=9A8sQZDRn5o)
-[![5 Coding Projects (from beginner to advanced)](https://ytcards.demolab.com/?id=n2B-FClr5rA&title=5+Coding+Projects+%28from+beginner+to+advanced%29&lang=en&timestamp=1663079409&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=1090 "5 Coding Projects (from beginner to advanced)")](https://www.youtube.com/watch?v=n2B-FClr5rA)
-[![I Built an AI That Shoots Me in the Face When I Get Distracted](https://ytcards.demolab.com/?id=A8eegxL82PI&title=I+Built+an+AI+That+Shoots+Me+in+the+Face+When+I+Get+Distracted&lang=en&timestamp=1662046201&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=570 "I Built an AI That Shoots Me in the Face When I Get Distracted")](https://www.youtube.com/watch?v=A8eegxL82PI)
-[![Why I’m able to Code 4 Hours with NO breaks (how to stay focused & productive)](https://ytcards.demolab.com/?id=H68Iqm6c36U&title=Why+I%E2%80%99m+able+to+Code+4+Hours+with+NO+breaks+%28how+to+stay+focused+%26+productive%29&lang=en&timestamp=1660140015&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=538 "Why I’m able to Code 4 Hours with NO breaks (how to stay focused & productive)")](https://www.youtube.com/watch?v=H68Iqm6c36U)
+[![Apprendre Django de A a Z](https://ytcards.demolab.com/?id=vk6hvBETCDo&title=Apprendre+Django+De+A+a+Z+en+3H&lang=en&timestamp=1667250900&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=434 "Apprendre Django en 3H")](https://www.youtube.com/watch?v=vk6hvBETCDo&t=50s&ab_channel=JordyBayo)
+[![Apprendre FastApi de A a Z](https://ytcards.demolab.com/?id=7D_0JTeaKWg&title=Apprendre+FastApi+De+A+a+Z+en+3H&lang=en&timestamp=1667250900&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=434 "Apprendre Django en 3H")](https://www.youtube.com/watch?v=7D_0JTeaKWg&t=2027s&ab_channel=JordyBayo)
+
+[![C'est quoi un WebHook](https://ytcards.demolab.com/?id=4dQT-yQA7T4&title=C'est+quoi+un+Webhook&lang=en&timestamp=1667250900&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=434 "c'est quoi un webhook")](https://youtu.be/4dQT-yQA7T4)
+[![Pourquoi utiliser Terraform](https://ytcards.demolab.com/?id=gSqheRejhdE&title=Pourquoi+utiliser+Terraform&lang=en&timestamp=1663770604&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=655 "Pourquoi utiliser Terraform")](https://youtu.be/gSqheRejhdE)
+
 <!-- END YOUTUBE-CARDS -->
 
-[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/fknight?sub_confirmation=1)
+[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/jordybayo?sub_confirmation=1)
 
 #
 
