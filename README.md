@@ -1,4 +1,4 @@
-# 🏄‍♂️ Forrest Knight
+# 🏄‍♂️ Jordy Bayo
 
 **`Digital Craftsman (DevOps/Filmmaker/Creator)`**
 
