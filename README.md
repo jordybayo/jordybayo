@@ -56,9 +56,9 @@ I'm an indie DevOps Engineer and content creator building my version of the digi
 
 ### 📊 Stats
 
-![Jordy's GitHub stats](https://github-readme-stats.vercel.app/api?username=jordybayo&show_icons=true&theme=gruvbox)
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=forrestknight&show_icons=true&theme=gruvbox)
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=JordyBayo&theme=gruvbox&border_radius=4.5) -->
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
 #
 
